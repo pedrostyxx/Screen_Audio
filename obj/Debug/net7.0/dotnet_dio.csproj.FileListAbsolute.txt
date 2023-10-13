@@ -1,0 +1,14 @@
+C:\Users\notebook\Documents\dotnet_dio\bin\Debug\net7.0\dotnet_dio.exe
+C:\Users\notebook\Documents\dotnet_dio\bin\Debug\net7.0\dotnet_dio.deps.json
+C:\Users\notebook\Documents\dotnet_dio\bin\Debug\net7.0\dotnet_dio.runtimeconfig.json
+C:\Users\notebook\Documents\dotnet_dio\bin\Debug\net7.0\dotnet_dio.dll
+C:\Users\notebook\Documents\dotnet_dio\bin\Debug\net7.0\dotnet_dio.pdb
+C:\Users\notebook\Documents\dotnet_dio\obj\Debug\net7.0\dotnet_dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notebook\Documents\dotnet_dio\obj\Debug\net7.0\dotnet_dio.AssemblyInfoInputs.cache
+C:\Users\notebook\Documents\dotnet_dio\obj\Debug\net7.0\dotnet_dio.AssemblyInfo.cs
+C:\Users\notebook\Documents\dotnet_dio\obj\Debug\net7.0\dotnet_dio.csproj.CoreCompileInputs.cache
+C:\Users\notebook\Documents\dotnet_dio\obj\Debug\net7.0\dotnet_dio.dll
+C:\Users\notebook\Documents\dotnet_dio\obj\Debug\net7.0\refint\dotnet_dio.dll
+C:\Users\notebook\Documents\dotnet_dio\obj\Debug\net7.0\dotnet_dio.pdb
+C:\Users\notebook\Documents\dotnet_dio\obj\Debug\net7.0\dotnet_dio.genruntimeconfig.cache
+C:\Users\notebook\Documents\dotnet_dio\obj\Debug\net7.0\ref\dotnet_dio.dll
